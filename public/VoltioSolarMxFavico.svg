@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="300"
+   viewBox="0 0 79.374998 79.375002"
+   version="1.1"
+   id="svg905"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="VoltioSolarMxFavico.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview907"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:lockguides="true"
+     units="px"
+     inkscape:zoom="1.5500842"
+     inkscape:cx="169.66821"
+     inkscape:cy="126.44475"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g129164" />
+  <defs
+     id="defs902">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3177">
+      <stop
+         style="stop-color:#4096ee;stop-opacity:1;"
+         offset="0"
+         id="stop3173" />
+      <stop
+         style="stop-color:#783fea;stop-opacity:1"
+         offset="1"
+         id="stop3175" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3177"
+       id="linearGradient3179"
+       x1="-8.0891933"
+       y1="6.5053139"
+       x2="-8.0891933"
+       y2="77.438141"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1156819,0,0,1.1156819,50.825394,-7.5237637)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient3179);fill-opacity:1;stroke:#1d1314;stroke-width:0.236525;stroke-linecap:round"
+       id="rect3141"
+       width="79.778755"
+       height="79.138474"
+       x="-0.20187759"
+       y="0.11826324" />
+    <g
+       id="g129164"
+       transform="matrix(2.8694912,0,0,2.8694912,-305.23997,-274.75087)"
+       inkscape:export-filename="/home/norberto/Documents/Business/VoltioSolar/VoltioSolarLogo.png"
+       inkscape:export-xdpi="304"
+       inkscape:export-ydpi="304">
+      <g
+         id="g129154"
+         transform="matrix(0.09411136,0,0,0.09411136,45.164646,100.77283)"
+         style="display:inline;fill:#f6c600;fill-opacity:1;stroke:none">
+        <g
+           id="g129152"
+           transform="translate(545.46019,-111.17198)">
+          <path
+             style="fill:#f6c600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 149.2455,62.328045 h 63.50759 l 34.4959,94.298835 -25.47988,94.43389 z"
+             id="path129148"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             style="fill:#f6c600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 278.89743,61.589094 54.3474,0.51343 -40.16299,147.067596 h 61.4684 l -97.60088,138.74606 25.048,-96.30529 h -50.67183 z"
+             id="path129150"
+             sodipodi:nodetypes="cccccccc" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

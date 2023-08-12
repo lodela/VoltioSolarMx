@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="300"
+   viewBox="0 0 79.374998 79.375002"
+   version="1.1"
+   id="svg905"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="VoltioSolarMx.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview907"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:lockguides="true"
+     units="px"
+     inkscape:zoom="0.77504209"
+     inkscape:cx="397.39777"
+     inkscape:cy="148.37904"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs902" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g129164"
+       transform="matrix(2.8694912,0,0,2.8694912,-296.51684,-287.72079)"
+       inkscape:export-filename="/home/norberto/Documents/Business/VoltioSolar/VoltioSolarLogo.png"
+       inkscape:export-xdpi="304"
+       inkscape:export-ydpi="304">
+      <g
+         id="g129154"
+         transform="matrix(0.07790635,0,0,0.07790635,53.701647,102.12826)"
+         style="display:inline;fill:#f6c600;fill-opacity:1;stroke:none">
+        <g
+           id="g129152"
+           transform="translate(545.46019,-111.17198)">
+          <path
+             style="fill:#f6c600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 186.21245,116.7516 h 50.67185 l 10.36469,39.87528 -25.47988,94.43389 z"
+             id="path129148" />
+          <path
+             style="fill:#f6c600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 267.60196,117.0395 h 50.23999 l -24.76011,92.13062 h 61.4684 l -97.60088,138.74606 25.048,-96.30529 h -50.67183 z"
+             id="path129150" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.78987px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.549988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         x="103.78771"
+         y="122.38212"
+         id="text129158"><tspan
+           sodipodi:role="line"
+           id="tspan129156"
+           x="103.78771"
+           y="122.38212"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Righteous;-inkscape-font-specification:Righteous;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.549988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill">VOLTIO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.58204px;line-height:1.55;font-family:sans-serif;letter-spacing:0.793748px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1823;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         x="111.09754"
+         y="125.59751"
+         id="text129162"><tspan
+           sodipodi:role="line"
+           id="tspan129160"
+           x="111.09754"
+           y="125.59751"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Righteous;-inkscape-font-specification:Righteous;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1823;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill">SOLAR</tspan></text>
+    </g>
+  </g>
+</svg>
