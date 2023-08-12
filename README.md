@@ -1,6 +1,8 @@
 # VoltioSolarMx
+<p align='center'>
+    <image src='/public/VoltioSolarMx.png' width="500" >  
+</p>
 
-<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/lodela/VoltioSolarMx/57e60b8a662dcc9b1e0efb17d89fdaf72083d521/src/assets/VoltioSolarMx.svg</span><span>)</span>
 
 ## Descripción del Proyecto
 
